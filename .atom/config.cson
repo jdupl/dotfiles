@@ -1,0 +1,19 @@
+"*":
+  welcome:
+    showOnStartup: false
+  editor:
+    invisibles: {}
+    fontFamily: "monospace"
+    showIndentGuide: true
+    showInvisibles: true
+    fontSize: 18
+    nonWordCharacters: "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-_"
+    tabLength: 4
+  core:
+    themes: [
+      "one-dark-ui"
+      "railscast-theme"
+    ]
+  "highlight-selected":
+    highlightBackground: true
+    lightTheme: true
