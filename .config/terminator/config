@@ -2,6 +2,7 @@
   enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
   title_transmit_bg_color = "#7db3c5"
   scrollbar_position = disabled
+  always_split_with_profile = True
 [keybindings]
 [profiles]
   [[default]]
